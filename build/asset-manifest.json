@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ew-plastering/static/css/main.1214d86b.css",
+    "main.js": "/ew-plastering/static/js/main.49a7d150.js",
+    "index.html": "/ew-plastering/index.html",
+    "main.1214d86b.css.map": "/ew-plastering/static/css/main.1214d86b.css.map",
+    "main.49a7d150.js.map": "/ew-plastering/static/js/main.49a7d150.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1214d86b.css",
+    "static/js/main.49a7d150.js"
+  ]
+}
